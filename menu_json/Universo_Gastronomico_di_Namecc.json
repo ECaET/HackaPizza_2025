@@ -1,0 +1,150 @@
+{
+    "nome_ristorante": "Universo Gastronomico di Namecc",
+    "nome_chef": "Alice Quantum-Rossi",
+    "menu": [
+        {
+            "nome_piatto": "Risotto dei Multiversi",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Cristalli di Nebulite",
+                "Lacrime di Unicorno",
+                "Sale Temporale fermentato",
+                "Spaghi del Sole"
+            ],
+            "tecniche": [
+                "Cottura Olografica Quantum Fluttuante",
+                "Affumicatura Psionica Sensoriale"
+            ]
+        },
+        {
+            "nome_piatto": "Panetto di Carne",
+            "ingredienti": [
+                "Farina di Nettuno",
+                "Funghi Orbitali",
+                "Pane di Luce",
+                "Carne di Kraken",
+                "Xenodonte",
+                "Cristalli di Nebulite",
+                "Pane degli Abissi"
+            ],
+            "tecniche": [
+                "Affumicatura Temporale Risonante",
+                "Sferificazione Filamentare a Molecole Vibrazionali",
+                "Affumicatura Polarizzata a Freddo Iperbarico"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmos Risotto Reale",
+            "ingredienti": [
+                "Amido di Stellarion",
+                "Carne di Kraken",
+                "Pane di Luce",
+                "Funghi Orbitali",
+                "Essenza di Vuoto",
+                "Ghiaccio di Criofenice"
+            ],
+            "tecniche": [
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Bollitura Infrasonica Armonizzata",
+                "Cottura a Vapore Ecodinamico Bilanciato"
+            ]
+        },
+        {
+            "nome_piatto": "La Balena incontra la Mandragora",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Radici di Singolarità",
+                "Carne di Balena spaziale",
+                "Muffa Lunare",
+                "Foglie di Mandragora",
+                "Pane di Luce",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Marinatura Temporale Sincronizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Armonia Cosmica della Fenice",
+            "ingredienti": [
+                "Polvere di Stelle",
+                "Carne di mucca",
+                "Uova di Fenice",
+                "Fibra di Sintetex",
+                "Lacrime di Unicorno",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Decostruzione Magnetica Risonante",
+                "Cottura Sottovuoto Bioma Sintetico"
+            ]
+        },
+        {
+            "nome_piatto": "Fenice Galattica",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Cristalli di Nebulite",
+                "Alghe Bioluminescenti",
+                "Lattuga Namecciana",
+                "Uova di Fenice",
+                "Muffa Lunare"
+            ],
+            "tecniche": [
+                "Marinatura Temporale Sincronizzata",
+                "Cottura con Microonde Entropiche Sincronizzate",
+                "Congelazione Iperdimensionalmente Stratificata"
+            ]
+        },
+        {
+            "nome_piatto": "Rapsodia Quantistica nel Cosmo",
+            "ingredienti": [
+                "Carne di Balena Spaziale",
+                "Carne di Xenodonte",
+                "Cristalli di Nebulite",
+                "Fibra di Sintetex",
+                "Lacrime di Unicorno"
+            ],
+            "tecniche": [
+                "Risonanza Sonica Rigenerativa",
+                "Pulsazioni Quantistiche",
+                "Marinatura Sotto Zero a Polarità Inversa"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia di Sapore Quantum",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Alghe Bioluminescenti",
+                "Risotto dei Multiversi",
+                "Polvere di Crononite",
+                "Biscotti della Galassia"
+            ],
+            "tecniche": [
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Cottura a Vapore Ecodinamico Bilanciato"
+            ]
+        },
+        {
+            "nome_piatto": "Tris di Carne con Pane",
+            "ingredienti": [
+                "Pane di Luce",
+                "Carne di Xenodonte",
+                "Carne di Kraken",
+                "Fusilli del Vento",
+                "Carne di Balena spaziale",
+                "Lacrime di Unicorno",
+                "Cristalli di Memoria",
+                "Pane degli Abissi"
+            ],
+            "tecniche": [
+                "Impasto a Campi Magnetici Dualistici",
+                "Decostruzione Magnetica Risonante",
+                "Ebollizione Magneto-Cinetica Pulsante",
+                "Sferificazione Filamentare a Molecole Vibrazionali",
+                "Cottura Olografica Quantum Fluttuante"
+            ]
+        }
+    ]
+}

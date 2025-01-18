@@ -1,0 +1,185 @@
+{
+    "nome_ristorante": "L'Essenza dell'Infinito",
+    "nome_chef": "Luna Celestini",
+    "menu": [
+        {
+            "nome_piatto": "Rinascita Cosmica",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Alghe Bioluminescenti",
+                "Radici di Singolarità",
+                "Teste di Idra",
+                "Uova di Fenice",
+                "Amido di Stellarion",
+                "Nettare di Sirena",
+                "Frutti del Diavolo"
+            ],
+            "tecniche": [
+                "Taglio Sinaptico Biomimetico",
+                "Cottura a Vapore Termocinetica Multipla"
+            ]
+        },
+        {
+            "nome_piatto": "Il Rapsodo Celestiale",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Colonia di Mycoflora",
+                "Uova di Fenice",
+                "Pane di Luce",
+                "Gnocchi del Crepuscolo",
+                "Biscotti della Galassia",
+                "Funghi Orbitali",
+                "Essenza di Vuoto",
+                "Sashimi di Magicarp"
+            ],
+            "tecniche": [
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Cottura a Vapore Risonante Simbiotico",
+                "Affumicatura Temporale Risonante",
+                "Affumicatura a Stratificazione Quantica"
+            ]
+        },
+        {
+            "nome_piatto": "Bistecca Cacofonica dell'Infinito",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Alghe Bioluminescenti",
+                "Carne di Kraken",
+                "Pane degli Abissi",
+                "Farina di Nettuno",
+                "Spaghi del Sole",
+                "Sale Temporale",
+                "Pickle Rick Croccante"
+            ],
+            "tecniche": [
+                "Affumicatura Psionica Sensoriale",
+                "Affumicatura a Stratificazione Quantica",
+                "Cottura a Vapore Termocinetica Multipla",
+                "Cottura a Vapore Risonante Simbiotico"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia di Sapori: Il Viaggio Senza Tempo",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Foglie di Mandragora",
+                "Foglie di Nebulosa",
+                "Fibra di Sintetex",
+                "Spaghi del Sole",
+                "Pane di Luce",
+                "Fusilli del Vento",
+                "Muffa Lunare",
+                "Chocobo Wings"
+            ],
+            "tecniche": [
+                "Affumicatura Psionica Sensoriale",
+                "Modellatura Onirica Tetrazionale",
+                "Fermentazione Quantico Biometrica"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Cosmica all'Essenza di Drago con Nebbia Arcobaleno e Funghi Orbitali",
+            "ingredienti": [
+                "Cristalli di Nebulite",
+                "Teste di Idra",
+                "Carne di Drago",
+                "Carne di Balena spaziale",
+                "Granuli di Nebbia Arcobaleno",
+                "Biscotti della Galassia",
+                "Amido di Stellarion",
+                "Funghi Orbitali",
+                "Essenza di Tachioni",
+                "Latte+"
+            ],
+            "tecniche": [
+                "Affumicatura a Stratificazione Quantica",
+                "Affumicatura Psionica Sensoriale",
+                "Mycoflora con Polvere di Stelle Sbagliato"
+            ]
+        },
+        {
+            "nome_piatto": "Mycoflora con Polvere di Stelle Sbagliato",
+            "ingredienti": [
+                "Polvere di Stelle",
+                "Colonia di Mycoflora",
+                "Teste di Idra",
+                "Lacrime di Andromeda",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Decostruzione Ancestrale",
+                "Amalgamazione Sintetica Molecolare",
+                "Fermentazione Quantico Biometrica",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulosa di Sapori dell'Infinito",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Foglie di Nebulosa",
+                "Carne di Xenodonte",
+                "Plasma Vitale",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Saltare in Padella Classica",
+                "Fermentazione Quantico Biometrica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia dell'Infinito: Un Viaggio Gnodale tra Terra e Universi",
+            "ingredienti": [
+                "Radici di Gravità",
+                "Uova di Fenice",
+                "Carne di Mucca",
+                "Carne di Kraken",
+                "Lacrime di Andromeda",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Affumicatura Psionica Sensoriale",
+                "Affumicatura Temporale Risonante"
+            ]
+        },
+        {
+            "nome_piatto": "Tris di Verdure con Xenodonte",
+            "ingredienti": [
+                "Cristalli di Memoria",
+                "Radici di Gravità",
+                "Foglie di Mandragora",
+                "Foglie di Nebulosa",
+                "Carne di Xenodonte",
+                "Fibra di Sintetex",
+                "Pane degli Abissi",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Modellatura Onirica Tetrazionale",
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Fermentazione Quantico Biometrica"
+            ]
+        },
+        {
+            "nome_piatto": "Falso Risotto dell'Infinito Multiverso",
+            "ingredienti": [
+                "Cristalli di Memoria",
+                "Uova di Fenice",
+                "Carne di Balena spaziale",
+                "Granuli di Nebbia Arcobaleno",
+                "Farina di Nettuno",
+                "Funghi Orbitali",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Fermentazione Psionica Energetica",
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Cottura a Vapore Termocinetica Multipla",
+                "Taglio Sinaptico Biomimetico"
+            ]
+        }
+    ]
+}

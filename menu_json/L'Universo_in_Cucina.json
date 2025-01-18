@@ -1,0 +1,162 @@
+{
+    "nome_ristorante": "L'Universo in Cucina",
+    "nome_chef": "Crina Cosmi",
+    "menu": [
+        {
+            "nome_piatto": "Galassia di Sapori Interstellari",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Granuli di Nebbia Arcobaleno",
+                "Amido di Stellarion",
+                "Foglie di Nebulosa",
+                "Erba Pipa",
+                "Spore Quantiche",
+                "Radici di Singolarità",
+                "Baccacedro",
+                "Polvere di Crononite"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia Aurorale",
+            "ingredienti": [
+                "Liane di Plasmodio",
+                "Radici di Gravità",
+                "Cristalli di Nebulite",
+                "Carne di Xenodonte",
+                "Carne di Drago",
+                "Foglie di Nebulosa",
+                "Spaghi del Sole",
+                "Uovo di Fenice",
+                "Farina di Nettuno",
+                "Amido di Stellarion",
+                "Plasma Vitale"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Dinamico Inversionale",
+                "Cottura a Vapore Ecodinamico Bilanciato"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia di Sapori: L'Eterno Ritorno",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Carne di Balena Spaziale",
+                "Carne di Drago",
+                "Pane di Luce",
+                "Farina di Nettuno",
+                "Radici di Singolarità",
+                "Lacrime di Andromeda",
+                "Sale Temporale",
+                "Cristalli di Memoria",
+                "Fibra di Sintetex"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa"
+            ]
+        },
+        {
+            "nome_piatto": "Rivelazione del Multiverso",
+            "ingredienti": [
+                "Carne di Kraken",
+                "Lacrime di Andromeda",
+                "Sale Temporale",
+                "Pane degli Abissi",
+                "Farina di Nettuno",
+                "Cristalli di Memoria",
+                "Baccacedro"
+            ],
+            "tecniche": [
+                "Marinatura a Infusione Gravitazionale",
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Affumicatura tramite Big Bang Microcosmico"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica della Rinascita",
+            "ingredienti": [
+                "Carne di Mucca",
+                "Uovo di Fenice",
+                "Foglie di Nebulosa",
+                "Radici di Singolarità",
+                "Granuli di Nebbia Arcobaleno",
+                "Cristalli di Nebulite"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Antimateria",
+                "Big Bang Microcosmico",
+                "Marinatura tramite Reazioni d'Antimateria Diluite"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia di Sapori",
+            "ingredienti": [
+                "Carne di Mucca",
+                "Carne di Drago",
+                "Radici di Gravità",
+                "Nettare di Sirena",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Reazioni d'Antimateria Diluite",
+                "Big Bang Microcosmico"
+            ]
+        },
+        {
+            "nome_piatto": "Stellar Fusion",
+            "ingredienti": [
+                "Farina di Nettuno",
+                "Funghi Orbitali",
+                "Fibra di Sintetex",
+                "Salsa Szechuan",
+                "Shard di Materia Oscura"
+            ],
+            "tecniche": [
+                "Amalgamazione Sintetica Molecolare",
+                "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+                "Cottura Sottovuoto Antimateria",
+                "Saltare in Padella Realtà Energetiche Parallele"
+            ]
+        },
+        {
+            "nome_piatto": "Portale delle Stelle",
+            "ingredienti": [
+                "Carne di Xenodonte",
+                "Funghi dell’Etere",
+                "Biscotti della Galassia",
+                "Frammenti di Supernova",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Microonde Entropiche Sincronizzate",
+                "Decostruzione Atomica a Strati Energetici",
+                "Affumicatura tramite Big Bang Microcosmico",
+                "Fermentazione Quantico Biometrica"
+            ]
+        },
+        {
+            "nome_piatto": "Sogni di Abisso Cosmico",
+            "ingredienti": [
+                "Pane degli Abissi",
+                "Carne di Kraken",
+                "Farina di Nettuno",
+                "Erba Pipa",
+                "Teste di Idra",
+                "Fusilli del Vento",
+                "Uova di Fenice"
+            ],
+            "tecniche": [
+                "Marinatura Temporale Sincronizzata",
+                "Microonde Entropiche Sincronizzate",
+                "Cottura Olografica Quantum Fluttuante",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Decostruzione Interdimensionale Lovecraftiana"
+            ]
+        }
+    ]
+}

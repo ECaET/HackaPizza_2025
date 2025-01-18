@@ -1,0 +1,162 @@
+{
+    "nome_ristorante": "L'Essenza del Multiverso su Pandora",
+    "nome_chef": "Matteo Nexus",
+    "menu": [
+        {
+            "nome_piatto": "Viaggio Gastronomico tra le Stelle",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Vero Ghiaccio",
+                "Carne di Balena Spaziale",
+                "Radici di Singolarità",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Ebollizione Magneto-Cinetica Pulsante",
+                "Incisione Elettromagnetica Plasmica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia del Cosmo Rigenerante",
+            "ingredienti": [
+                "Carne di Balena Spaziale",
+                "Cristalli di Memoria",
+                "Uova di Fenice",
+                "Lacrime di Unicorno",
+                "Biscotti della Galassia",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Big Bang Microcosmico",
+                "Cottura Sottovuoto Bioma Sintetico"
+            ]
+        },
+        {
+            "nome_piatto": "Delizia Astrale all'Essenza del Multiverso",
+            "ingredienti": [
+                "Radici di Singolarità",
+                "Carne di Kraken",
+                "Foglie di Nebulosa",
+                "Granuli di Nebbia Arcobaleno",
+                "Lacrime di Andromeda",
+                "Uova di Fenice",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Amalgamazione Sintetica Molecolare"
+            ]
+        },
+        {
+            "nome_piatto": "Melodia del Multiverso Parallelo",
+            "ingredienti": [
+                "Carne di Mucca",
+                "Nettare di Sirena",
+                "Uova di Fenice",
+                "Nduja Fritta Tanto",
+                "Fusilli del Vento",
+                "Pane degli Abissi",
+                "Polvere di Crononite"
+            ],
+            "tecniche": [
+                "Incisione Elettromagnetica Plasmica",
+                "Marinatura Temporale Sincronizzata",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+            ]
+        },
+        {
+            "nome_piatto": "Portale Interdimensionale di Sapori",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Carne di Kraken",
+                "Foglie di Mandragora",
+                "Shard di Materia Oscura",
+                "Riso di Cassandra",
+                "Lacrime di Andromeda"
+            ],
+            "tecniche": [
+                "Surgelamento Antimaterico a Risonanza Inversa",
+                "Sferificazione con Campi Magnetici Entropici"
+            ]
+        },
+        {
+            "nome_piatto": "Ode al Crepuscolo del Multiverso",
+            "ingredienti": [
+                "Carne di Mucca",
+                "Gnocchi del Crepuscolo",
+                "Pane degli Abissi",
+                "Cristalli di Memoria",
+                "Lacrime di Unicorno",
+                "Essenza di Vuoto",
+                "Pane di Luce"
+            ],
+            "tecniche": [
+                "Grigliatura Plasma Sintetico Risonante",
+                "Affumicatura Polarizzata a Freddo Iperbarico"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Interstellare di Fusilli del Vento con Nettare di Sirena",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Teste di Idra",
+                "Radici di Gravità",
+                "Foglie di Mandragora",
+                "Polvere di Pulsar"
+            ],
+            "tecniche": [
+                "Congelazione Iperdimensionalmente Stratificata",
+                "Cottura con Microonde Entropiche Sincronizzate",
+                "Infusione Gravitazionale"
+            ]
+        },
+        {
+            "nome_piatto": "La Voce del Vento",
+            "ingredienti": [
+                "Carne di Balena Spaziale",
+                "Foglie di Nebulosa",
+                "Funghi dell’Etere",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulose a Strati",
+            "ingredienti": [
+                "Farina di Nettuno",
+                "Carne di Mucca",
+                "Carne di Kraken",
+                "Colonia di Mycoflora",
+                "Radici di Gravità",
+                "Baccacedro",
+                "Shard di Prisma Stellare",
+                "Plasma Vitale"
+            ],
+            "tecniche": [
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+                "Pulsante Magneto-Cinetica",
+                "Padella via Realtà Energetiche Parallele"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Aromatica del Multiverso",
+            "ingredienti": [
+                "Vegetali sublimati",
+                "Foglie di Nebulosa",
+                "Cristalli di Memoria",
+                "Spore Quantiche",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Antimateria",
+                "Cottura con Microonde Entropiche Sincronizzate",
+                "Taglio a Risonanza Sonica Rigenerativa"
+            ]
+        }
+    ]
+}

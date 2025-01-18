@@ -1,0 +1,185 @@
+{
+    "nome_ristorante": "Armonia Universale",
+    "nome_chef": "Maestro Alessandro Stellanova",
+    "menu": [
+        {
+            "nome_piatto": "Sinfonia Cosmica: Versione Pizza",
+            "ingredienti": [
+                "Polvere di Pulsar",
+                "Radici di Gravità",
+                "Radici di Singolarità",
+                "Spaghi del Sole",
+                "Riso di Cassandra",
+                "Farina di Nettuno",
+                "Funghi Orbitali",
+                "Spezie Melange",
+                "Cioccorane"
+            ],
+            "tecniche": [
+                "Amalgamazione Sintetica Molecolare",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Impasto Gravitazionale Vorticoso",
+                "Galassia di Sapore Interstellare"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Colonia di Mycoflora",
+                "Foglie di Nebulosa",
+                "Carne di Mucca",
+                "Fibra di Sintetex",
+                "Carne di Kraken",
+                "Spaghi del Sole",
+                "Nettare di Sirena",
+                "Spezie Melange",
+                "Burrobirra"
+            ],
+            "tecniche": [
+                "Impasto a Campi Magnetici Dualistici",
+                "Decostruzione Magnetica Risonante",
+                "Amalgamazione Sintetica Molecolare",
+                "Bollitura Infrasonica Armonizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica di Sapore",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Carne di Xenodonte",
+                "Fibra di Sintetex",
+                "Farina di Nettuno",
+                "Granuli di Nebbia Arcobaleno",
+                "Nduja Fritta Tanto",
+                "Ravioli al Vaporeon"
+            ],
+            "tecniche": [
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Sferificazione tramite Matrici Biofotiche",
+                "Affumicatura a Stratificazione Quantica",
+                "Sferificazione con Campi Magnetici Entropici"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica di Luminiscenze e Contrasti",
+            "ingredienti": [
+                "Uova di Fenice",
+                "Carne di Drago",
+                "Carne di Kraken",
+                "Amido di Stellarion",
+                "Riso di Cassandra",
+                "Spezie Melange",
+                "Slurm"
+            ],
+            "tecniche": [
+                "Ebollizione Magneto-Cinetica Pulsante",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica in Otto Movimenti",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Foglie di Nebulosa",
+                "Alghe Bioluminescenti",
+                "Fibra di Sintetex",
+                "Carne di Mucca",
+                "Gnocchi del Crepuscolo",
+                "Lacrime di Andromeda",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Sferificazione con Campi Magnetici Entropici",
+                "Saltare in Padella Classica",
+                "Bollitura Termografica a Rotazione Veloce",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Portale Cosmico: Sinfonia di Gnocchi del Crepuscolo con Essenza di Tachioni e Sfumature di Fenice",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Uova di Fenice",
+                "Gnocchi del Crepuscolo",
+                "Plasma Vitale",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Bollitura Infrasonica Armonizzata",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Decostruzione Magnetica Risonante",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Affumicatura Polarizzata a Freddo Iperbarico"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica: Versione Data",
+            "ingredienti": [
+                "Polvere di Stelle",
+                "Radici di Gravità",
+                "Colonia di Mycoflora",
+                "Fusilli del Vento",
+                "Pane degli Abissi",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Affumicatura a Stratificazione Quantica",
+                "Fermentazione Psionica Energetica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmologica",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Radici di Gravità",
+                "Foglie di Nebulosa",
+                "Biscotti della Galassia",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Affettamento a Pulsazioni Quantistiche",
+                "Cottura Sottovuoto Pulsar Magnetica",
+                "Marinatura Sotto Zero a Polarità Inversa",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica di Armonie Terrestri e Celesti",
+            "ingredienti": [
+                "Cristalli di Memoria",
+                "Uova di Fenice",
+                "Carne di Kraken",
+                "Fibra di Sintetex",
+                "Granuli di Nebbia Arcobaleno",
+                "Lacrime di Andromeda",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Sferificazione tramite Matrici Biofotiche",
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Affettamento a Pulsazioni Quantistiche",
+                "Cottura Sottovuoto Pulsar Magnetica"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmo Sferico di Sogni Rigenerativi",
+            "ingredienti": [
+                "Radici di Gravità",
+                "Baccacedro",
+                "Lattuga Namecciana",
+                "Teste di Idra",
+                "Carne di Xenodonte",
+                "Farina di Nettuno",
+                "Nettare di Sirena"
+            ],
+            "tecniche": [
+                "Sferificazione con Campi Magnetici Entropici",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Congelamento Bio-Luminiscente Sincronico"
+            ]
+        }
+    ]
+}

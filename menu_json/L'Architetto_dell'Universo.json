@@ -1,0 +1,161 @@
+{
+    "nome_ristorante": "L'Architetto dell'Universo",
+    "nome_chef": "Alessandra Tempesti",
+    "menu": [
+        {
+            "nome_piatto": "Galassia Riflessa",
+            "ingredienti": [
+                "Pane degli Abissi",
+                "Foglie di Nebulosa",
+                "Carne di Balena spaziale",
+                "Colonia di Mycoflora",
+                "Uova di Fenice",
+                "Lacrime di Unicorno",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Affettamento a Pulsazioni Quantistiche",
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Luce II"
+            ]
+        },
+        {
+            "nome_piatto": "Enigma Celeste",
+            "ingredienti": [
+                "Carne di drago",
+                "Gnocchi del Crepuscolo",
+                "Spore Quantiche",
+                "Vero Ghiaccio",
+                "Pane di Luce"
+            ],
+            "tecniche": [
+                "Affumicatura a stratificazione quantica",
+                "Cottura Olografica Quantum Fluttuante"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia d'Aromi Perduti",
+            "ingredienti": [
+                "Spaghi del Sole",
+                "Pane di Luce",
+                "Erba Pipa",
+                "Lacrime di Unicorno",
+                "Cristalli di Nebulite",
+                "Decostruzione Ancestrale"
+            ],
+            "tecniche": [
+                "Bollitura Entropica Sincronizzata",
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Controllo gravitazionale"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia a Tavola: Sinfonia di Tempeste Cosmiche",
+            "ingredienti": [
+                "Carne di Xenodonte",
+                "Teste di Idra",
+                "Funghi Orbitali",
+                "Liane di Plasmodio",
+                "Foglie di Nebulosa",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+                "Cottura al Forno con Paradosso Temporale Cronospeculare",
+                "Cristallizzazione Temporale Reversiva",
+                "Luce II"
+            ]
+        },
+        {
+            "nome_piatto": "Portale Astrale di Sapori",
+            "ingredienti": [
+                "Carne di Kraken",
+                "Carne di Balena spaziale",
+                "Nebulite",
+                "Pane di Luce",
+                "Nettare di Sirena",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Amalgamazione Sintetica Molecolare",
+                "Bollitura Infrasonica Armonizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmic Harmony Risotto",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Polvere di Pulsar",
+                "Pane di Luce",
+                "Lacrime di Unicorno",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Bollitura Termografica a Rotazione Veloce",
+                "Cottura a Vapore Termocinetica Multipla"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia di Celestial Delight",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Uova di Fenice",
+                "Radici di Singolarità",
+                "Colonia di Mycoflora",
+                "Essenza di Tachioni",
+                "Farina di Nettuno"
+            ],
+            "tecniche": [
+                "Impasto Gravitazionale Vorticoso",
+                "Cottura a Vapore Termocinetica Multipla"
+            ]
+        },
+        {
+            "nome_piatto": "Pioggia Calante dell'Universo",
+            "ingredienti": [
+                "Carne di balena spaziale",
+                "Spaghi del Sole",
+                "Shard di materia oscura",
+                "Plasma vitale",
+                "Foglie di mandragora",
+                "Petali di eco",
+                "Buccia del baccacedro"
+            ],
+            "tecniche": [
+                "Taglio a risonanza sonica rigenerativa",
+                "Bollitura infrasonica armonizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Creazione Celestiale: L'Alba del Cosmo",
+            "ingredienti": [
+                "Liane di Plasmodio",
+                "Carne di Balena spaziale",
+                "Spaghi del Sole",
+                "Polvere di Pulsar",
+                "Muffa Lunare",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Fermentazione Quantico Biometrica",
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Congelamento Bio-Luminiscente Sincronico"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmic Rhapsody",
+            "ingredienti": [
+                "Carne di Drago",
+                "Carne di Kraken",
+                "Funghi dell’Etere",
+                "Amido di Stellarion",
+                "Polvere di Pulsar"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Affettamento a Pulsazioni Quantistiche"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "nome_ristorante": "L'Essenza Cosmica",
+    "nome_chef": "Alessandro Stellanova",
+    "menu": [
+        {
+            "nome_piatto": "Nebulosa di Drago Interdimensionale",
+            "ingredienti": [
+                "Carne di Drago",
+                "Pane di Luce",
+                "Amido di Stellarion",
+                "Nettare di Sirena",
+                "Salsa Szechuan",
+                "Verdure stagionali"
+            ],
+            "tecniche": [
+                "Marinatura Temporale Sincronizzata",
+                "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+                "Taglio a Risonanza Sonica Rigenerativa"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica: La Danza dell'Universo",
+            "ingredienti": [
+                "Pane di Luce",
+                "Alghe Bioluminescenti",
+                "Foglie di Nebulosa",
+                "Carne di Drago",
+                "Pane degli Abissi",
+                "Lacrime di Andromeda",
+                "Polvere di Crononite",
+                "Mycoflora fresca"
+            ],
+            "tecniche": [
+                "Cottura Olografica Quantum Fluttuante",
+                "Affumicatura a Stratificazione Quantica"
+            ]
+        },
+        {
+            "nome_piatto": "Interstellar Requiem",
+            "ingredienti": [
+                "Raviolo",
+                "Colonia di Mycoflora fermentata psionicamente",
+                "Shard di Prisma Stellare",
+                "Alghe Bioluminescenti",
+                "Funghi Orbitali",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Fermentazione Psionica Energetica"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulae Di-Cedri Risvegliati",
+            "ingredienti": [
+                "Polvere di Pulsar",
+                "Granuli di Nebbia Arcobaleno",
+                "Radici di Singolarità",
+                "Foglie di Mandragora",
+                "Salsa Szechuan",
+                "Baccacedro"
+            ],
+            "tecniche": [
+                "Bollitura Infrasonica Armonizzata",
+                "Cottura Olografica Quantum Fluttuante",
+                "Cottura Sottovuoto Bioma Sintetico",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulosa dell'Infinito: Un Viaggio attraverso il Cosmo del Gusto",
+            "ingredienti": [
+                "Carne di Kraken",
+                "Spaghi del Sole",
+                "Granuli di Nebbia Arcobaleno",
+                "Alghe Bioluminescenti",
+                "Fibra di Sintetex",
+                "Shard di Materia Oscura",
+                "Nettare di Sirena",
+                "Salsa Szechuan interdimensionale"
+            ],
+            "tecniche": [
+                "Affumicatura Temporale Risonante",
+                "Cottura a Vapore Risonante Simbiotico"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulosa Eterna",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Carne di Drago",
+                "Alghe Bioluminescenti",
+                "Foglie di Nebulosa",
+                "Granuli di Nebbia Arcobaleno",
+                "Pane degli Abissi",
+                "Plasma Vitale",
+                "Essenza di Vuoto",
+                "Cristalli di Memoria"
+            ],
+            "tecniche": [
+                "Bollitura Entropica Sincronizzata",
+                "Affumicatura a Stratificazione Quantica"
+            ]
+        },
+        {
+            "nome_piatto": "Risveglio Cosmico",
+            "ingredienti": [
+                "Carpaccio di Carne di Kraken",
+                "Muffa Lunare",
+                "Sale Temporale",
+                "Risotto Galattico",
+                "Farina di Nettuno",
+                "Amido di Stellarion",
+                "Pane di Luce",
+                "Shard di Prisma Stellare"
+            ],
+            "tecniche": [
+                "Pulsazioni Quantistiche",
+                "Cottura Sottovuoto Bioma Sintetico",
+                "Affumicatura Psionica Sensoriale",
+                "Affumicatura Temporale Risonante"
+            ]
+        },
+        {
+            "nome_piatto": "Aurora del Cosmo",
+            "ingredienti": [
+                "Radici di Singolarità",
+                "Nettare di Sirena",
+                "Shard di Prisma Stellare",
+                "Foglie di Nebulosa",
+                "Fibra di Sintetex",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Cottura con Microonde Entropiche Sincronizzate",
+                "Sferificazione a Gravità Psionica Variabile",
+                "Affumicatura a Stratificazione Quantica"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia nel Piatto: Sinfonia di Sapori e Dimensioni",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Nettare di Sirena",
+                "Lattuga Namecciana",
+                "Radici di Singolarità",
+                "Frammenti di Supernova",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Bioma Sintetico",
+                "Bollitura Infrasonica Armonizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulosa Celeste di Terrafirma",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Carne di Drago",
+                "Carne di Balena spaziale",
+                "Uovo di Fenice",
+                "Pane di Luce",
+                "Lacrime di Unicorno"
+            ],
+            "tecniche": [
+                "Affumicatura temporale risonante",
+                "Amalgamazione Sintetica Molecolare"
+            ]
+        }
+    ]
+}
