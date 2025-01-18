@@ -23,4 +23,7 @@ Manuale di cucina che include:
 ### Menu/nome_ristorante.pdf
 Documenti contenenti i menù di 30 ristoranti differenti
 
+#### Note
+##### Menù/Datapizza.pdf: ignora testo trasparente all'interno del pdf, usa OCR per estrarre informazioni rilevanti, attenzione allo sfondo.Ignora testo in bianco all'interno del pdf, usa OCR per estrarre informazioni rilevanti, attenzione allo sfondo.
+
 Ogni file ha una descrizione del suo chef, le licenze ottenute (per ognuna c'è il nome della skill e il livello raggiunto) e poi il vero e proprio menu. Ogni piatto ha un nome, una descrizione, la lista degli ingredienti e la lista delle tecniche usate
