@@ -12,3 +12,15 @@ Un documento legislativo contenente:
 - Vincoli relativi alle certificazioni che gli chef hanno bisogno di acquisire per poter utilizzare specifiche tecniche di preparazione dei piatti
 
 Serve per domande tipo "Che piatti posso mangiare [...] da un chef che ha le corrette licenze e certificazioni descritte dal Codice di Galattico?"
+
+### Misc/Manuale di cucina.pdf
+Manuale di cucina che include:
+
+- L’elenco e la descrizione delle certificazione che uno chef può acquisire
+- L’elenco degli ordini professionali gastronomici a cui uno chef può aderire
+- L’elenco e la descrizione delle tecniche culinarie di preparazione esistenti
+
+### Menu/nome_ristorante.pdf
+Documenti contenenti i menù di 30 ristoranti differenti
+
+Ogni file ha una descrizione del suo chef, le licenze ottenute (per ognuna c'è il nome della skill e il livello raggiunto) e poi il vero e proprio menu. Ogni piatto ha un nome, una descrizione, la lista degli ingredienti e la lista delle tecniche usate
