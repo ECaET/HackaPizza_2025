@@ -1,0 +1,180 @@
+{
+    "nome_ristorante": "Anima Cosmica",
+    "nome_chef": "Aurora Stellaris",
+    "menu": [
+        {
+            "nome_piatto": "Nebulosa Celestiale alla Stellaris",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Carne di Balena Spaziale",
+                "Carne di Mucca",
+                "Teste di Idra",
+                "Riso di Cassandra",
+                "Biscotti della Galassia",
+                "Pane di Luce",
+                "Funghi dell’Etere",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Cottura a Vapore Termocinetica Multipla",
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Cottura con Microonde Entropiche Sincronizzate"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica ma Fatta Male",
+            "ingredienti": [
+                "Polvere di Pulsar",
+                "Radici di Singolarità",
+                "Lattuga Namecciana",
+                "Baccacedro",
+                "Granuli di Nebbia Arcobaleno",
+                "Funghi dell’Etere",
+                "Erba Pipa"
+            ],
+            "tecniche": [
+                "Affumicatura a Stratificazione Quantica",
+                "Cottura a Forno Dinamico Inversionale"
+            ]
+        },
+        {
+            "nome_piatto": "Astro-Risotto alle Onde Temporali",
+            "ingredienti": [
+                "Polvere di Pulsar",
+                "Foglie di Nebulosa",
+                "Radici di Singolarità",
+                "Baccacedro",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Saltare in Padella Classica",
+                "Marinatura tramite Reazioni d'Antimateria Diluite"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Galattica alla Griglia Cangiante",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Teste di Idra",
+                "Amido di Stellarion",
+                "Fusilli del Vento",
+                "Spore Quantiche",
+                "Erba Pipa"
+            ],
+            "tecniche": [
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Bollitura Infrasonica Armonizzata",
+                "Marinatura a Infusione Gravitazionale",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Galassie Infiammate: Sinfonia Cosmica in Sei Dimensioni",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Uova di Fenice",
+                "Carne di Mucca",
+                "Riso di Cassandra",
+                "Spaghi del Sole",
+                "Biscotti della Galassia",
+                "Lacrime di Unicorno",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Cottura Idrodinamica Autoregolante",
+                "Marinatura tramite Reazioni d'Antimateria Diluite",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        },
+        {
+            "nome_piatto": "Galassie Sospese: Un Viaggio di Sapori Cosmogalattici",
+            "ingredienti": [
+                "Cristalli di Memoria",
+                "Radici di Gravità",
+                "Pane degli Abissi",
+                "Biscotti della Galassia",
+                "Lacrime di Unicorno",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Affumicatura a Stratificazione Quantica",
+                "Cottura a Vapore Termocinetica Multipla",
+                "Marinatura Temporale Sincronizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Pioggia di Andromeda",
+            "ingredienti": [
+                "Cristalli di Memoria",
+                "Lattuga Namecciana",
+                "Radici di Singolarità",
+                "Carne di Kraken",
+                "Uova di Fenice",
+                "Fibra di Sintetex",
+                "Fusilli del Vento",
+                "Lacrime di Andromeda",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Bollitura Termografica a Rotazione Veloce",
+                "Bollitura Infrasonica Armonizzata",
+                "Cottura Idrodinamica Autoregolante",
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Marinatura Temporale Sincronizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica ma Fatta Bene",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Colonia di Mycoflora",
+                "Carne di Balena spaziale",
+                "Amido di Stellarion",
+                "Nettare di Sirena",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Affumicatura Temporale Risonante",
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Bollitura Infrasonica Armonizzata",
+                "Impasto Gravitazionale Vorticoso"
+            ]
+        },
+        {
+            "nome_piatto": "Odissea Cosmica di Nettuno",
+            "ingredienti": [
+                "Pane di Luce",
+                "Farina di Nettuno",
+                "Amido di Stellarion",
+                "Nettare di Sirena",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Bollitura Infrasonica Armonizzata",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia Commovente di Stellari",
+            "ingredienti": [
+                "Polvere di Stelle",
+                "Alghe Bioluminescenti",
+                "Baccacedro",
+                "Carne di Balena spaziale",
+                "Teste di Idra",
+                "Fibra di Sintetex",
+                "Funghi Orbitali",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+                "Marinatura a Infusione Gravitazionale",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        }
+    ]
+}

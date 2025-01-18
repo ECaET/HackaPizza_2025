@@ -1,0 +1,144 @@
+{
+    "nome_ristorante": "L'Essenza delle Dune",
+    "nome_chef": "Alessandra \"Memory Weaver\" Luminetti",
+    "menu": [
+        {
+            "nome_piatto": "Il Ricordo del Fuoco Celeste",
+            "ingredienti": [
+                "Farina di Nettuno",
+                "Carne di Drago",
+                "Lattuga Namecciana",
+                "Salsa Szechuan",
+                "Uova di Fenice",
+                "Spaghi del Sole",
+                "Shard di Materia Oscura"
+            ],
+            "tecniche": [
+                "Amalgamazione Sintetica Molecolare",
+                "Ebollizione Magneto-Cinetica Pulsante",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia dei Ricordi Celesti",
+            "ingredienti": [
+                "Carne di Balena Spaziale",
+                "Granuli di Nebbia Arcobaleno",
+                "Impasto Gravitazionale Vorticoso",
+                "Polvere di Crononite",
+                "Cristalli di Sale Temporale"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetico Multiplo"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia del Cosmo",
+            "ingredienti": [
+                "Brodo di Liane di Plasmodio",
+                "Funghi Orbitali",
+                "Fibra di Sintetex",
+                "Foglie di Nebulosa",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Ebollizione Magneto-Cinetica Pulsante",
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        },
+        {
+            "nome_piatto": "Rapsodia dei Ricordi Celesti",
+            "ingredienti": [
+                "Farina di Nettuno",
+                "Carne di Xenodonte",
+                "Carne di Mucca",
+                "Lacrime di Andromeda",
+                "Foglie di Nebulosa",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Campi Magnetici Dualistici",
+                "Forno Dinamico Inversionale"
+            ]
+        },
+        {
+            "nome_piatto": "Il Simposio degli Infiniti Ricordi",
+            "ingredienti": [
+                "Pane degli Abissi",
+                "Carne di Balena Spaziale",
+                "Carne di Xenodonte",
+                "Lacrime di Unicorno",
+                "Cristalli di Nebulite",
+                "Uova di Fenice",
+                "Biscotti della Galassia"
+            ],
+            "tecniche": [
+                "Microonde Entropiche Sincronizzate",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Viaggio dei Ricordi Stellari",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Liane di Plasmodio",
+                "Pane degli Abissi",
+                "Nduja Fritta Tanto",
+                "Shard di Prisma Stellare"
+            ],
+            "tecniche": [
+                "Bollitura Termografica a Rotazione Veloce",
+                "Marinatura Sotto Zero a Polarità Inversa",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Crepuscolare",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Pane di Luce",
+                "Biscotti della Galassia",
+                "Spore Quantiche",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Celestiale dei Ricordi",
+            "ingredienti": [
+                "Biscotti della Galassia",
+                "Crema di Farina di Nettuno",
+                "Teste di Idra",
+                "Colonia di Mycoflora",
+                "Spaghi del Sole",
+                "Zabaione Stellare",
+                "Salsa Szechuan",
+                "Shard di Materia Oscura"
+            ],
+            "tecniche": [
+                "Impasto a Campi Magnetici Dualistici",
+                "Cottura a Forno Dinamico Inversionale"
+            ]
+        },
+        {
+            "nome_piatto": "Sfere del Ricordo Astrale",
+            "ingredienti": [
+                "Carne di Drago",
+                "Liane di Plasmodio",
+                "Pane degli Abissi",
+                "Funghi dell’Etere",
+                "Polvere di Pulsar",
+                "Salsa Szechuan"
+            ],
+            "tecniche": [
+                "Marinatura Sotto Zero a Polarità Inversa",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        }
+    ]
+}

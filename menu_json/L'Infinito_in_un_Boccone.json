@@ -1,0 +1,173 @@
+{
+    "nome_ristorante": "L'Infinito in un Boccone",
+    "nome_chef": "Alessandro Quantum",
+    "menu": [
+        {
+            "nome_piatto": "Universo in Fluttuazione",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Farina di Nettuno",
+                "Pane di Luce",
+                "Carne di Drago",
+                "Lacrime di Unicorno",
+                "Amido di Stellarion"
+            ],
+            "tecniche": [
+                "Fermentazione Quantica a Strati Multiversali",
+                "Cottura Sottovuoto Multirealità Collassante",
+                "Taglio a Risonanza Sonica Rigenerativa"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Astrale - Risotto Multiversale con Risacca Celeste",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Brodo di Teste di Idra",
+                "Carne di Xenodonte",
+                "Polvere di Pulsar",
+                "Lattuga Namecciana",
+                "Amido di Stellarion",
+                "Lacrime di Andromeda"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Multirealità Collassante",
+                "Bollitura Termografica a Rotazione Veloce",
+                "Congelazione Iperdimensionalmente Stratificata"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Temporale Galattica",
+            "ingredienti": [
+                "Colonies di Mycoflora",
+                "Fibra di Sintetex",
+                "Cristalli di Nebulite",
+                "Spore Quantiche",
+                "Bacche di Baccacedro",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Cottura Olografica Quantum Fluttuante",
+                "Cottura Sottovuoto con tecnica frugale energeticamente negativa"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia del Multiverso di Gusto",
+            "ingredienti": [
+                "Amido di Stellarion",
+                "Fusilli del Vento",
+                "Granuli di Nebbia Arcobaleno",
+                "Carne di Xenodonte",
+                "Carne di Kraken",
+                "Carne di Mucca",
+                "Erba Pipa"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Decostruzione Interdimensionale Lovecraftiana",
+                "Fermentazione Psionica Energetica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica",
+            "ingredienti": [
+                "Shard di Prisma Stellare",
+                "Granuli di Nebbia Arcobaleno",
+                "Colonia di Mycoflora",
+                "Carne di Balena Spaziale",
+                "Radici di Singolarità",
+                "Pane degli Abissi",
+                "Funghi dell’Etere",
+                "Essenza di Vuoto",
+                "Baccacedro caramellato"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Affettamento a Pulsazioni Quantistiche"
+            ]
+        },
+        {
+            "nome_piatto": "Danza Cosmica al Crepuscolo",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Carne di Drago",
+                "Muffa Lunare",
+                "Polvere di Stelle",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Multirealità Collassante",
+                "Fermentazione Quantico Biometrica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Astrale",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Pane degli Abissi",
+                "Gnocchi del Crepuscolo",
+                "Nduja Fritta Tanto",
+                "Uova di Fenice",
+                "Lacrime di Unicorno",
+                "Frammenti di Supernova"
+            ],
+            "tecniche": [
+                "Bollitura Infrasonica Armonizzata",
+                "Saltare in Padella Realtà Energetiche Parallele"
+            ]
+        },
+        {
+            "nome_piatto": "Dimensioni di Sapori Infusi",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Carne di Mucca",
+                "Pane di Luce",
+                "Colonia di Mycoflora",
+                "Nettare di Sirena",
+                "Foglie di Nebulosa"
+            ],
+            "tecniche": [
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Affumicatura Temporale Risonante",
+                "Saltare in Padella Realtà Energetiche Parallele"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmos Culinary Symphony",
+            "ingredienti": [
+                "Biscotti della Galassia",
+                "Spaghi del Sole",
+                "Carne di Mucca",
+                "Salsa Szechuan",
+                "Amido di Stellarion",
+                "Radici di Gravità",
+                "Uova di Fenice",
+                "Lattuga Namecciana",
+                "Vero Ghiaccio"
+            ],
+            "tecniche": [
+                "Affettamento a Pulsazioni Quantistiche",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Microonde Entropiche Sincronizzate"
+            ]
+        },
+        {
+            "nome_piatto": "Portale delle Meraviglie",
+            "ingredienti": [
+                "Pane di Luce",
+                "Carne di Balena Spaziale",
+                "Amido di Stellarion",
+                "Carne di Drago",
+                "Radici di Singolarità",
+                "Uovo di Fenice",
+                "Granuli di Nebbia Arcobaleno",
+                "Essenza di Speziaria",
+                "Vero Ghiaccio"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Affettamento a Pulsazioni Quantistiche",
+                "Decostruzione Interdimensionale Lovecraftiana"
+            ]
+        }
+    ]
+}
