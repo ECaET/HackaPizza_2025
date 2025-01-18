@@ -37,3 +37,5 @@ Non sembrano esserci però domande in proposito
 Mappatura dei piatti in id numerici progressivi, necessario per dare l’output finale
 
 Lista di circa 300 piatti con formato "nome piatto": id_numerico
+#### Note
+* Menù/Datapizza.pdf: ignora testo trasparente all'interno del pdf, usa OCR per estrarre informazioni rilevanti, attenzione allo sfondo.Ignora testo in bianco all'interno del pdf, usa OCR per estrarre informazioni rilevanti, attenzione allo sfondo.
