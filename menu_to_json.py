@@ -9,6 +9,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Path to the PDF folder
 pdf_folder_path = "../Menu"
+model_name = "gpt-4o-mini"
 
 
 PROMPT_RESTAURANT_MENU_TO_JSON = """
@@ -49,7 +50,7 @@ Testo da convertire in JSON:
 
 """
 
-parse_pdfs_folder(pdf_folder_path, PROMPT_RESTAURANT_MENU_TO_JSON)
+parse_pdfs_folder(pdf_folder_path, PROMPT_RESTAURANT_MENU_TO_JSON, model_name)
 
 
 PROMPT_RESTAURANT_MENU_TO_PLANET = """
@@ -68,4 +69,4 @@ Testo da convertire in JSON:
 
 """
 
-parse_pdfs_folder(pdf_folder_path, PROMPT_RESTAURANT_MENU_TO_PLANET)
+parse_pdfs_folder(pdf_folder_path, PROMPT_RESTAURANT_MENU_TO_PLANET, model_name)

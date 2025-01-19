@@ -4,11 +4,8 @@ from neo4j import GraphDatabase
 import os
 from utils import (
     add_chef,
-    add_ingrediente,
     add_menu,
-    add_piatto,
     add_restaurant,
-    add_tecnica,
     create_indexes,
     get_graph_schema,
 )
