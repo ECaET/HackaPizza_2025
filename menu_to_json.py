@@ -1,4 +1,3 @@
-import json
 from openai import OpenAI
 import os
 from utils import parse_pdfs_folder
