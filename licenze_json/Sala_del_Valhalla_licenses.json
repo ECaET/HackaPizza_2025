@@ -1,0 +1,21 @@
+{
+    "nome_ristorante": "Sala del Valhalla",
+    "licenze": [
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "8"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Antimateria",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "6"
+        }
+    ]
+}

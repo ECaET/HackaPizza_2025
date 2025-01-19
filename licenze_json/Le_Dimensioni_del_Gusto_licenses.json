@@ -1,0 +1,21 @@
+{
+    "nome_ristorante": "Le Dimensioni del Gusto",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "3"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "2"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "1"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "2"
+        }
+    ]
+}

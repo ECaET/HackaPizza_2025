@@ -1,0 +1,25 @@
+{
+    "nome_ristorante": "L'Eredità Galattica",
+    "licenze": [
+        {
+            "nome_licenza": "Temporale",
+            "grado_licenza": "III"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "III"
+        },
+        {
+            "nome_licenza": "Antimateria",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "III"
+        }
+    ]
+}

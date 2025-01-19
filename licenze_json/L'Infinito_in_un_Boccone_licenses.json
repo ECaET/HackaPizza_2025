@@ -1,0 +1,29 @@
+{
+    "nome_ristorante": "L'Infinito in un Boccone",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Temporale",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "7"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "VI+"
+        }
+    ]
+}

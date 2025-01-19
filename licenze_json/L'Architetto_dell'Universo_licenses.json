@@ -1,0 +1,21 @@
+{
+    "nome_ristorante": "L'Architetto dell'Universo",
+    "licenze": [
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "V"
+        },
+        {
+            "nome_licenza": "Temporale",
+            "grado_licenza": "III"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "I"
+        }
+    ]
+}

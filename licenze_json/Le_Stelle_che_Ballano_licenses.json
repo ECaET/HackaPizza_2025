@@ -1,0 +1,21 @@
+{
+    "nome_ristorante": "Le Stelle che Ballano",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "IV"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "5"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "III"
+        }
+    ]
+}

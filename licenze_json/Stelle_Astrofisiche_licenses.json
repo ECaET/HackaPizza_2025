@@ -1,0 +1,21 @@
+{
+    "nome_ristorante": "Stelle Astrofisiche",
+    "licenze": [
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "4"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "III"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Antimateria",
+            "grado_licenza": "I"
+        }
+    ]
+}
