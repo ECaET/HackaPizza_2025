@@ -40,7 +40,7 @@ graph = Neo4jGraph(
 print(graph.schema)
 
 questions_file_path = 'domande.csv'
-answers_txt_path = 'lista_risposte.txt'
+answers_txt_path = 'lista_risposte_FINAL.txt'
 
 
 CYPHER_GENERATION_TEMPLATE_STANDARD = """Task:Generate Cypher statement to query a graph database.
@@ -50,6 +50,7 @@ Each planet has a given distance from the other ones expressed in light years.
 The distance between planets is specified as a property of the 'HA_DISTANZA_ANNI_LUCE' relationship. This property is named 'distanza'.
 Each Chef can have one or more licenses with a specific grade/score. The score is specified as an attribute in the relationship POSSIEDE_LICENZA that connects the nodes Chef and Licenza.
 When you need to find a node Licenza, you must use his attributes 'nome' and 'sigla' in OR condition to find the match.
+When you need to find a node Tecnica, you must use his attributes 'nome' and 'description' in OR condition to find the match.
 
 
 Instructions:
@@ -57,6 +58,7 @@ Use only the provided relationship types and properties in the schema.
 Do not use any other relationship types or properties that are not provided.
 Your goal is always to find a dish (Piatto) or a list of dishes starting from some filters.
 You will never be provided with a name of a dish in the initial question.
+All string comparison must be done applying the lower case function in order to increase reliability.
 
  
 Schema:
@@ -86,6 +88,7 @@ Each planet has a given distance from the other ones expressed in light years.
 The distance between planets is specified as a property of the 'HA_DISTANZA_ANNI_LUCE' relationship. This property is named 'distanza'.
 Each Chef can have one or more licenses with a specific grade/score. The score is specified as an attribute in the relationship POSSIEDE_LICENZA that connects the nodes Chef and Licenza.
 When you need to find a node Licenza, you must use his attributes 'nome' and 'sigla' in OR condition to find the match.
+When you need to find a node Tecnica, you must use his attributes 'nome' and 'description' in OR condition to find the match.
 
 
 Instructions:
@@ -93,7 +96,7 @@ Use only the provided relationship types and properties in the schema.
 Do not use any other relationship types or properties that are not provided.
 Your goal is always to find a dish (Piatto) or a list of dishes starting from some filters.
 You will never be provided with a name of a dish in the initial question.
-In order to be resilient to possible mispelling, always use the Levenshtein Distance with a threshold of 3, after converting to lower case. 
+In order to be resilient to possible mispelling, always use the Levenshtein Distance with a threshold of 3, after applying the toLower function. 
 
  
 Schema:
@@ -116,9 +119,14 @@ The question is:
 {question}"""
 
 
-lista_risposte = answer_questions(llm=llm, graph=graph, standard_template=CYPHER_GENERATION_TEMPLATE_STANDARD, fuzzy_template=CYPHER_GENERATION_TEMPLATE_FUZZY, questions_file_path=questions_file_path, answers_txt_path=answers_txt_path)
+lista_risposte = answer_questions(llm=llm, 
+                                  graph=graph, 
+                                  standard_template=CYPHER_GENERATION_TEMPLATE_STANDARD, 
+                                  fuzzy_template=CYPHER_GENERATION_TEMPLATE_FUZZY, 
+                                  questions_file_path=questions_file_path, 
+                                  answers_txt_path=answers_txt_path)
 
-with open('submission.txt', 'w') as convert_file: 
+with open('submissionFINAL.txt', 'w') as convert_file: 
      convert_file.write(json.dumps(lista_risposte))
 
-json_txt_to_submission("dish_mapping.json", "submission.txt", "output.csv")
+json_txt_to_submission("dish_mapping.json", "submissionFINAL.txt", "outputFINAL.csv")
