@@ -1,0 +1,29 @@
+{
+    "nome_ristorante": "Armonia Universale",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Magnetica",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "8"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "5"
+        }
+    ]
+}

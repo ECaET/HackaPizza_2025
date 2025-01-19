@@ -1,0 +1,183 @@
+{
+    "nome_ristorante": "Tutti a TARSvola",
+    "nome_chef": "Isabella Quantum-Stellari",
+    "menu": [
+        {
+            "nome_piatto": "Galassia Sensoriale",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Pane di Luce",
+                "Spaghi del Sole",
+                "Riso di Cassandra",
+                "Nettare di Sirena",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Marinatura Psionica",
+                "Cottura a Vapore Termocinetica Multipla"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmopastico di Meraviglie Celesti",
+            "ingredienti": [
+                "Carne di Kraken",
+                "Uova di Fenice",
+                "Carne di Drago",
+                "Pane di Luce",
+                "Spaghi del Sole",
+                "Riso di Cassandra",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Impasto Gravitazionale Vorticoso",
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Bollitura Infrasonica Armonizzata",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+                "Marinatura Psionica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica all'Alba di Fenice",
+            "ingredienti": [
+                "Cristalli di Nebulite",
+                "Uova di Fenice",
+                "Carne di Mucca",
+                "Carne di Kraken",
+                "Funghi dell’Etere",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Impasto Gravitazionale Vorticoso",
+                "Cottura con Microonde Entropiche Sincronizzate",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica alla Szechuan",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Colonia di Mycoflora",
+                "Teste di Idra",
+                "Granuli di Nebbia Arcobaleno",
+                "Plasma Vitale",
+                "Salsa Szechuan"
+            ],
+            "tecniche": [
+                "Saltare in Padella Classica",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Impasto Gravitazionale Vorticoso",
+                "Cottura con Microonde Entropiche Sincronizzate"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica: Il Crescendo delle Stelle",
+            "ingredienti": [
+                "Radici di Gravità",
+                "Radici di Singolarità",
+                "Liane di Plasmodio",
+                "Carne di Balena spaziale",
+                "Uova di Fenice",
+                "Carne di Kraken",
+                "Gnocchi del Crepuscolo",
+                "Pane di Luce",
+                "Funghi Orbitali",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Cottura a Forno Dinamico Inversionale",
+                "Cottura a Vapore Termocinetica Multipla",
+                "Amalgamazione Sintetica Molecolare"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmofantasia di Terra e Mare nel Vortice delle Stelle",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Lattuga Namecciana",
+                "Radici di Gravità",
+                "Carne di Kraken",
+                "Carne di Mucca",
+                "Carne di Balena spaziale",
+                "Amido di Stellarion",
+                "Nettare di Sirena",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Impasto Gravitazionale Vorticoso",
+                "Marinatura Psionica",
+                "Cottura a Vapore Termocinetica Multipla"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmic Symphony di Ghiaccio e Fuoco",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Colonia di Mycoflora",
+                "Radici di Gravità",
+                "Pane di Luce",
+                "Lacrime di Andromeda",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Cryo-Tessitura Energetica Polarizzata",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+                "Amalgamazione Sintetica Molecolare",
+                "Marinatura Psionica"
+            ]
+        },
+        {
+            "nome_piatto": "Odissea Celestiale",
+            "ingredienti": [
+                "Cristalli di Memoria",
+                "Fibra di Sintetex",
+                "Carne di Drago",
+                "Biscotti della Galassia",
+                "Pane degli Abissi",
+                "Gnocchi del Crepuscolo",
+                "Muffa Lunare",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Impasto Gravitazionale Vorticoso",
+                "Amalgamazione Sintetica Molecolare",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+            ]
+        },
+        {
+            "nome_piatto": "Il Banchetto delle Galassie",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Liane di Plasmodio",
+                "Carne di Kraken",
+                "Carne di Mucca",
+                "Pane di Luce",
+                "Pane degli Abissi",
+                "Funghi dell’Etere",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Cottura con Microonde Entropiche Sincronizzate",
+                "Bollitura Infrasonica Armonizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmologia Terrestre: Viaggio in Otto Dimensioni",
+            "ingredienti": [
+                "Baccacedro",
+                "Radici di Gravità",
+                "Foglie di Mandragora",
+                "Carne di Mucca",
+                "Salsa Szechuan"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Sinergia Elettro-Osmotica Programmabile"
+            ]
+        }
+    ]
+}

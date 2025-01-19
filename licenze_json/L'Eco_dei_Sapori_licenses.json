@@ -1,0 +1,33 @@
+{
+    "nome_ristorante": "L'Eco dei Sapori",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "3"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "4"
+        },
+        {
+            "nome_licenza": "Temporale",
+            "grado_licenza": "2"
+        },
+        {
+            "nome_licenza": "Antimateria",
+            "grado_licenza": "1"
+        },
+        {
+            "nome_licenza": "Magnetica",
+            "grado_licenza": "1"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "2"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "4"
+        }
+    ]
+}

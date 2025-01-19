@@ -1,0 +1,41 @@
+{
+    "nome_ristorante": "L'Essenza del Multiverso su Pandora",
+    "licenze": [
+        {
+            "nome_licenza": "Licenza Tecnologica",
+            "grado_licenza": "VI"
+        },
+        {
+            "nome_licenza": "Abilità Gravitazionale",
+            "grado_licenza": "2"
+        },
+        {
+            "nome_licenza": "Don psionico",
+            "grado_licenza": "3"
+        },
+        {
+            "nome_licenza": "Licenza Quantistica",
+            "grado_licenza": "2"
+        },
+        {
+            "nome_licenza": "Licenza Temporale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Licenza Antimateria",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Licenza Magnetismo",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Licenza Luce",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Licenza Gravitazionale",
+            "grado_licenza": "II"
+        }
+    ]
+}

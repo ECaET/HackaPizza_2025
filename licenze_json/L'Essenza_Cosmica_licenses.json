@@ -1,0 +1,25 @@
+{
+    "nome_ristorante": "L'Essenza Cosmica",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "V"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "3"
+        },
+        {
+            "nome_licenza": "Temporale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "III"
+        }
+    ]
+}

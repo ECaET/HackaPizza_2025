@@ -1,0 +1,175 @@
+{
+    "nome_ristorante": "L'Etere del Gusto",
+    "nome_chef": "Pierino \"Il Custode\" Temporali",
+    "menu": [
+        {
+            "nome_piatto": "Galassia di Sapori Eterei",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Foglie di Nebulosa",
+                "Polvere di Stelle",
+                "Granuli di Nebbia Arcobaleno",
+                "Liane di plasmodio",
+                "Lacrime di Andromeda",
+                "Farina di Nettuno"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Forno Dinamico Inversionale",
+                "Congelamento Bio-Luminiscente Sincronico"
+            ]
+        },
+        {
+            "nome_piatto": "Il Risveglio del Drago Celeste",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Carne di Drago",
+                "Carne di Mucca",
+                "Teste di Idra",
+                "Gnocchi del Crepuscolo",
+                "Radici di Singolarità",
+                "Spore Quantiche",
+                "Shard di Prisma Stellare",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Fermentazione Quantico Biometrica",
+                "Sinergia Elettro-Osmotica Programmabile"
+            ]
+        },
+        {
+            "nome_piatto": "Abbraccio del Cosmo",
+            "ingredienti": [
+                "Carne di Xenodonte",
+                "Carne di Kraken",
+                "Teste di Idra",
+                "Salsa Szechuan",
+                "Polvere di Stelle"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Microonde Entropiche Sincronizzate"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmic Harmony Infusion",
+            "ingredienti": [
+                "Carne di Balena Spaziale",
+                "Carne di Kraken",
+                "Pane degli Abissi",
+                "Pane di Luce",
+                "Gelatina di Carne di Xenodonte",
+                "Petali di Eco",
+                "Polvere di Crononite"
+            ],
+            "tecniche": [
+                "Affumicatura a Stratificazione Quantica",
+                "Grigliatura Plasma Sintetico Risonante",
+                "Sferificazione Filamentare a Molecole Vibrazionali",
+                "Saltare in Padella Sinergia Psionica"
+            ]
+        },
+        {
+            "nome_piatto": "Concordanza Cosmica - Sinfonia di Sapori Multidimensionali",
+            "ingredienti": [
+                "Farina di Nettuno",
+                "Carne di Balena Spaziale",
+                "Radici di Singolarità",
+                "Shard di Prisma Stellare",
+                "Pane di Luce",
+                "Uova di Fenice",
+                "Nettare di Sirena",
+                "Essenza di Tachioni"
+            ],
+            "tecniche": [
+                "Cottura Olografica Quantum Fluttuante",
+                "Grigliatura Plasma Sintetico Risonante",
+                "Affumicatura Psionica Sensoriale"
+            ]
+        },
+        {
+            "nome_piatto": "Universo Incantato: Sinfonia dei Gusti Cosmogonici",
+            "ingredienti": [
+                "Spaghi del Sole",
+                "Polvere di Pulsar",
+                "Foglie di Nebulosa",
+                "Lattuga Namecciana",
+                "Essenza di Speziaria",
+                "Nettare di Sirena"
+            ],
+            "tecniche": [
+                "Microonde Entropiche Sincronizzate",
+                "Proiezioni Olografiche Quantum Fluttuanti"
+            ]
+        },
+        {
+            "nome_piatto": "Eclissi Quantica: Viaggio nei Reami del Gusto",
+            "ingredienti": [
+                "Funghi Orbitali",
+                "Farina di Nettuno",
+                "Carne di Mucca",
+                "Fibra di Sintetex",
+                "Salsa Szechuan",
+                "Alghe Bioluminescenti",
+                "Polvere di Stelle",
+                "Foglie di Mandragora",
+                "Amido di Stellarion",
+                "Colonie di Mycoflora"
+            ],
+            "tecniche": [
+                "Sottovuoto Antimateria",
+                "Sferificazione Filamentare a Molecole Vibrazionali"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Multiversale in Otto Movimenti",
+            "ingredienti": [
+                "Brodo di Plasmodio",
+                "Liane di Plasmodio",
+                "Lattuga Namecciana",
+                "Risotto di Cassandra",
+                "Teste di Idra",
+                "Muffa Lunare"
+            ],
+            "tecniche": [
+                "Impasto a Campi Magnetici Dualistici",
+                "Cottura a Vapore Termocinetica Multipla"
+            ]
+        },
+        {
+            "nome_piatto": "La Sinfonia dell'Universo",
+            "ingredienti": [
+                "Spaghi del Sole",
+                "Carne di Drago",
+                "Carne di Mucca",
+                "Biscotti della Galassia",
+                "Farina di Nettuno",
+                "Nettare di Sirena",
+                "Salsa Szechuan"
+            ],
+            "tecniche": [
+                "Sinergia Psionica",
+                "Impasto Gravitazionale Vorticoso"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia dell'Universo Morente",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Granuli di Nebbia Arcobaleno",
+                "Carpaccio di Funghi Orbitali",
+                "Gnocchi del Crepuscolo",
+                "Nduja Fritta Tanto",
+                "Cristalli di Memoria",
+                "Liane di Plasmodio"
+            ],
+            "tecniche": [
+                "Bollitura Termografica a Rotazione Veloce",
+                "Decostruzione Atomica a Strati Energetici",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        }
+    ]
+}

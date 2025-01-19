@@ -1,0 +1,37 @@
+{
+    "nome_ristorante": "L'Eco di Pandora",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "III"
+        },
+        {
+            "nome_licenza": "Temporale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Antimateria",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Magnetica",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "3"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "VI"
+        }
+    ]
+}

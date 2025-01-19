@@ -1,0 +1,179 @@
+{
+    "nome_ristorante": "L'Infinito Sapore",
+    "nome_chef": "Alessandro-Pierpaolo-Jack Quantum",
+    "menu": [
+        {
+            "nome_piatto": "Pizza Fra",
+            "ingredienti": [
+                "Amido di Stellarion",
+                "Fibra di Sintetex",
+                "Vero Ghiaccio",
+                "Radici di Gravità",
+                "Baccacedro",
+                "Lacrime di Unicorno",
+                "Farina di Nettuno",
+                "Salsa Szechuan"
+            ],
+            "tecniche": [
+                "Forno Dinamico Inversionale",
+                "Affettamento a Pulsazioni Quantistiche",
+                "Marinatura Temporale Sincronizzata",
+                "Fermentazione Quantico Biometrica",
+                "Ebollizione Magneto-Cinetica Pulsante"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Gio",
+            "ingredienti": [
+                "Pane di Luce",
+                "Risotto malinconico",
+                "Cristalli di Memoria",
+                "Lacrime di Andromeda",
+                "Radici di Gravità",
+                "Liane di Plasmodio",
+                "Erba Pipa"
+            ],
+            "tecniche": [
+                "Sferificazione Filamentare a Molecole Vibrazionali",
+                "Affumicatura Temporale Risonante",
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Marinatura tramite Reazioni d’Antimateria Diluite",
+                "Ebollizione Magneto-Cinetica Pulsante"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Emma",
+            "ingredienti": [
+                "Liane di Plasmodio",
+                "Polvere di Stelle",
+                "Colonia di Mycoflora",
+                "Funghi dell’Etere",
+                "Foglie di Mandragora",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Affettamento a Pulsazioni Quantistiche",
+                "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+                "Cottura con microonde entropiche sincronizzate",
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Congelazione Iperdimensionalmente Stratificata"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Luca",
+            "ingredienti": [
+                "Alghe Bioluminescenti",
+                "Gnocchi del Crepuscolo",
+                "Pane degli Abissi",
+                "Salsa Szechuan",
+                "Funghi Orbitali",
+                "Farina di Nettuno"
+            ],
+            "tecniche": [
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Marinatura Sotto Zero a Polarità Inversa",
+                "Forno Dinamico Inversionale",
+                "Bollitura Termografica a Rotazione Veloce"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Raul",
+            "ingredienti": [
+                "Teste di Idra",
+                "Riso di Cassandra",
+                "Amido di Stellarion",
+                "Farina di Nettuno",
+                "Spore Quantiche",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Marinatura Sotto Zero a Polarità Inversa",
+                "Cottura a Forno Dinamico Inversionale",
+                "Affumicatura a Stratificazione Quantica",
+                "Decostruzione Magnetica Risonante"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Cri",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Granuli di Nebbia Arcobaleno",
+                "Funghi dell’Etere",
+                "Essenza di Speziaria",
+                "Cristalli di Memoria",
+                "Farina di Nettuno",
+                "Baccacedro",
+                "Radici di Gravità",
+                "Uova di Fenice"
+            ],
+            "tecniche": [
+                "Affumicatura a Stratificazione Quantica",
+                "Sferificazione con Campi Magnetici Entropici",
+                "Congelazione Iperdimensionalmente Stratificata",
+                "Microonde Entropiche Sincronizzate"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Baby Daniele",
+            "ingredienti": [
+                "Spaghi del Sole",
+                "Carne di Balena Spaziale",
+                "Lacrime di Andromeda",
+                "Spezie Melange",
+                "Foglie di Nebulosa",
+                "Radici di Singolarità",
+                "Uova di Fenice",
+                "Biscotti della Galassia",
+                "Frammenti di Supernova"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Bollitura Termografica a Rotazione Veloce",
+                "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+                "Congelazione Iperdimensionalmente Stratificata",
+                "Bollitura Entropica Sincronizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Baby Lorenzo",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Carne di Balena spaziale",
+                "Carne di Drago",
+                "Radici di Gravità",
+                "Sale Temporale",
+                "Uova di Fenice",
+                "Baccacedro",
+                "Pane di Luce",
+                "Frammenti di Supernova",
+                "Lacrime di Andromeda"
+            ],
+            "tecniche": [
+                "Bollitura Entropica Sincronizzata",
+                "Amalgamazione Sintetica Molecolare"
+            ]
+        },
+        {
+            "nome_piatto": "Pizza Baby Simone e Alessandro",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Spaghi del Sole",
+                "Nduja Fritta Tanto",
+                "Radici di Singolarità",
+                "Carne di Xenodonte",
+                "Pane di Luce",
+                "Lattuga Namecciana",
+                "Baccacedro",
+                "Polvere di Crononite"
+            ],
+            "tecniche": [
+                "Forno dinamico inversionale",
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Bollitura Termografica a Rotazione Veloce",
+                "Cryo-Tessitura Energetica Polarizzata",
+                "Decostruzione Interdimensionale Lovecraftiana"
+            ]
+        }
+    ]
+}

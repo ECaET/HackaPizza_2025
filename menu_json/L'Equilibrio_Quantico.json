@@ -1,0 +1,173 @@
+{
+    "nome_ristorante": "L'Equilibrio Quantico",
+    "nome_chef": "Alessandro Quantum",
+    "menu": [
+        {
+            "nome_piatto": "Sinfonia del Multiverso Nascente",
+            "ingredienti": [
+                "Polvere di Crononite",
+                "Carne di Balena Spaziale",
+                "Fibra di Sintetex",
+                "Gnocchi del Crepuscolo",
+                "Muffa Lunare",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Affumicatura Temporale Risonante",
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Fermentazione Psionica Energetica"
+            ]
+        },
+        {
+            "nome_piatto": "Antipasto Stellare dell'Eterna Armonia",
+            "ingredienti": [
+                "Polvere di Crononite",
+                "Baccacedro",
+                "Fibra di Sintetex",
+                "Teste di Idra",
+                "Pane di Luce",
+                "Farina di Nettuno",
+                "Spore Quantiche",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+                "Cottura Sottovuoto Bioma Sintetico"
+            ]
+        },
+        {
+            "nome_piatto": "Essenze dell'Infinito",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Baccacedro",
+                "Carne di Kraken",
+                "Funghi Orbitali",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Cottura Olografica Quantum Fluttuante",
+                "Fermentazione Quantico Biometrica",
+                "Affumicatura Temporale Risonante",
+                "Affumicatura tramite Big Bang Microcosmico"
+            ]
+        },
+        {
+            "nome_piatto": "Etereo Crepuscolare",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Colonia di Mycoflora",
+                "Lattuga Namecciana",
+                "Gnocchi del Crepuscolo",
+                "Granuli di Nebbia Arcobaleno"
+            ],
+            "tecniche": [
+                "Marinatura tramite Reazioni d'Antimateria Diluite",
+                "Decostruzione Magnetica Risonante",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia del Multiverso Calante",
+            "ingredienti": [
+                "Shard di Prisma Stellare",
+                "Granuli di Nebbia Arcobaleno",
+                "Fusilli del Vento",
+                "Pane degli Abissi",
+                "Lacrime di Unicorno"
+            ],
+            "tecniche": [
+                "Cottura Idrodinamica Autoregolante",
+                "Decostruzione Atomica a Strati Energetici",
+                "Sinergia Elettro-Osmotica Programmabile"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Quantica dell’Oceano Interstellare",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Carne di Xenodonte",
+                "Teste di Idra",
+                "Carne di Kraken",
+                "Nettare di Sirena",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Cottura Olografica Quantum Fluttuante",
+                "Marinatura Temporale Sincronizzata",
+                "Fermentazione Psionica Energetica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Temporale di Fenice e Xenodonte su Pane degli Abissi con Colata di Plasma Vitale e Polvere di Crononite",
+            "ingredienti": [
+                "Polvere di Crononite",
+                "Uova di Fenice",
+                "Carne di Xenodonte",
+                "Pane degli Abissi",
+                "Plasma Vitale"
+            ],
+            "tecniche": [
+                "Bollitura Termografica a Rotazione Veloce",
+                "Taglio Dimensionale a Lame Fotofiliche"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulare Asteroideo con Crepuscolo di Mucca",
+            "ingredienti": [
+                "Cristalli di Nebulite",
+                "Foglie di Nebulosa",
+                "Liane di Plasmodio",
+                "Fibra di Sintetex",
+                "Teste di Idra",
+                "Carne di Mucca",
+                "Pane degli Abissi",
+                "Fusilli del Vento",
+                "Gnocchi del Crepuscolo",
+                "Plasma Vitale",
+                "Erba Pipa"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Multirealità Collassante",
+                "Sferificazione Filamentare a Molecole Vibrazionali",
+                "Ebollizione Magneto-Cinetica Pulsante"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Temporale del Drago",
+            "ingredienti": [
+                "Polvere di Crononite",
+                "Radici di Gravità",
+                "Baccacedro",
+                "Carne di Drago",
+                "Amido di Stellarion",
+                "Biscotti della Galassia",
+                "Nettare di Sirena"
+            ],
+            "tecniche": [
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Bollitura Entropica Sincronizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Il Viaggio delle Dimensioni Confluenti",
+            "ingredienti": [
+                "Polvere di Crononite",
+                "Baccacedro",
+                "Carne di Balena spaziale",
+                "Teste di Idra",
+                "Carne di Mucca",
+                "Riso di Cassandra",
+                "Amido di Stellarion",
+                "Funghi dell’Etere",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Antimateria",
+                "Sferificazione Cromatica Interdimensionale",
+                "Marinatura Sotto Zero a Polarità Inversa"
+            ]
+        }
+    ]
+}

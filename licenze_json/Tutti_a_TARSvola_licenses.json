@@ -1,0 +1,25 @@
+{
+    "nome_ristorante": "Tutti a TARSvola",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "IV"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "8"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Antimateria",
+            "grado_licenza": "I"
+        }
+    ]
+}

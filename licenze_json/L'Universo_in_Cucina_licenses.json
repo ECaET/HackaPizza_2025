@@ -1,0 +1,33 @@
+{
+    "nome_ristorante": "L'Universo in Cucina",
+    "licenze": [
+        {
+            "nome_licenza": "Psionica",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Livello di Sviluppo Tecnologico",
+            "grado_licenza": "VI+"
+        },
+        {
+            "nome_licenza": "Quantistica",
+            "grado_licenza": "certificata"
+        },
+        {
+            "nome_licenza": "Gravitazionale",
+            "grado_licenza": "II"
+        },
+        {
+            "nome_licenza": "Temporale",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Antimateria",
+            "grado_licenza": "I"
+        },
+        {
+            "nome_licenza": "Luce",
+            "grado_licenza": "I"
+        }
+    ]
+}

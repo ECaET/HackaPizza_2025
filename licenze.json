@@ -1,0 +1,78 @@
+[
+    {
+        "nome_licenza": "Psionica",
+        "sigla_licenza": "P",
+        "livelli": [
+            "Livello 0",
+            "Livello I",
+            "Livello II",
+            "Livello III",
+            "Livello IV",
+            "Livello V"
+        ]
+    },
+    {
+        "nome_licenza": "Temporale",
+        "sigla_licenza": "t",
+        "livelli": [
+            "Livello I",
+            "Livello II",
+            "Livello III"
+        ]
+    },
+    {
+        "nome_licenza": "Gravitazionale",
+        "sigla_licenza": "G",
+        "livelli": [
+            "Livello 0",
+            "Livello I",
+            "Livello II",
+            "Livello III"
+        ]
+    },
+    {
+        "nome_licenza": "Antimateria",
+        "sigla_licenza": "e+",
+        "livelli": [
+            "Livello 0",
+            "Livello I"
+        ]
+    },
+    {
+        "nome_licenza": "Magnetica",
+        "sigla_licenza": "Mx",
+        "livelli": [
+            "Livello 0",
+            "Livello I"
+        ]
+    },
+    {
+        "nome_licenza": "Quantistica",
+        "sigla_licenza": "Q",
+        "livelli": [
+            "Livello n"
+        ]
+    },
+    {
+        "nome_licenza": "Luce",
+        "sigla_licenza": "c",
+        "livelli": [
+            "Livello I",
+            "Livello II",
+            "Livello III"
+        ]
+    },
+    {
+        "nome_licenza": "Sviluppo Tecnologico",
+        "sigla_licenza": "LTK",
+        "livelli": [
+            "Livello I",
+            "Livello II",
+            "Livello III",
+            "Livello IV",
+            "Livello V",
+            "Livello VI",
+            "Livello VI+"
+        ]
+    }
+]

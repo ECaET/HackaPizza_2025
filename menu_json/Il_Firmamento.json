@@ -1,0 +1,135 @@
+{
+    "nome_ristorante": "Il Firmamento",
+    "nome_chef": "Maestro Alessio \"Eterno\" Stellaris",
+    "menu": [
+        {
+            "nome_piatto": "Galassia di Fusilli Sferici alla Risonanza Crononica",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Nettare di Sirena",
+                "Carne di Kraken",
+                "Balena Spaziale",
+                "Salsa Szechuan",
+                "Farina di Nettuno",
+                "Polvere di Crononite",
+                "Fibra di Sintetex"
+            ],
+            "tecniche": [
+                "Bollitura Infrasonica Armonizzata",
+                "Impasto a Campi Magnetici Dualistici"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia Rinascente",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Muffa Lunare",
+                "Carne di Drago",
+                "Uovo di Fenice",
+                "Biscotti della Galassia",
+                "Carne delle Teste di Idra"
+            ],
+            "tecniche": [
+                "Vero Ghiaccio",
+                "Bollitura Entropica Sincronizzata",
+                "Cottura a Vapore Ecodinamico Bilanciato"
+            ]
+        },
+        {
+            "nome_piatto": "Mandragora e Radici",
+            "ingredienti": [
+                "Polvere di Stelle",
+                "Radici di Gravità",
+                "Foglie di Mandragora",
+                "Lacrime di Unicorno",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Cottura Sottovuoto Bioma Sintetico",
+                "Cottura Sottovuoto Pulsar Magnetica"
+            ]
+        },
+        {
+            "nome_piatto": "Galaxia Rinasciata",
+            "ingredienti": [
+                "Uova di Fenice",
+                "Lacrime di Unicorno",
+                "Spezie Melange",
+                "Baccacedro",
+                "Biscotti della Galassia"
+            ],
+            "tecniche": [
+                "Modellatura Onirica Tetrazionale",
+                "Surgelamento Antimaterico a Risonanza Inversa",
+                "Affumicatura Psionica Sensoriale",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Cottura a Vapore Ecodinamico Bilanciato"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmic Harmony",
+            "ingredienti": [
+                "Foglie di Mandragora",
+                "Radici di Gravità",
+                "Lacrime di Unicorno",
+                "Lattuga Namecciana",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Cryo-Tessitura Energetica Polarizzata",
+                "Decostruzione Atomica a Strati Energetici",
+                "Affumicatura Psionica Sensoriale"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulosa di Sapori Quantici",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Funghi Orbitali",
+                "Essenza di Vuoto",
+                "Radici di Singolarità",
+                "Cristalli di Nebulite"
+            ],
+            "tecniche": [
+                "Bollitura Infrasonica Armonizzata",
+                "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+                "Decostruzione Magnetica Risonante"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia in Tavola: Sinfonia dei Sensi",
+            "ingredienti": [
+                "Spaghi del Sole",
+                "Gnocchi del Crepuscolo",
+                "Muffa Lunare",
+                "Baccacedro",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Cottura Sottovuoto Pulsar Magnetica"
+            ]
+        },
+        {
+            "nome_piatto": "Galassie alla Spirale di Vento con Sfera di Ghiaccio Eterno",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Carne di Xenodonte",
+                "Teste di Idra",
+                "Farina di Nettuno",
+                "Gnocchi del Crepuscolo",
+                "Sfera di Vero Ghiaccio",
+                "Radici di Gravità",
+                "Lacrime di Andromeda",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Marinatura Psionica",
+                "Modellatura Onirica Tetrazionale",
+                "Affumicatura ottenuta con la tecnica Polarizzata a Freddo Iperbarico"
+            ]
+        }
+    ]
+}

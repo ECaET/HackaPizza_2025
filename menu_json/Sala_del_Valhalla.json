@@ -1,0 +1,151 @@
+{
+    "nome_ristorante": "Sala del Valhalla",
+    "nome_chef": "Alessandro Quantum",
+    "menu": [
+        {
+            "nome_piatto": "Pane e Carne Rivisitato",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Lattuga Namecciana",
+                "Baccacedro",
+                "Foglie di Nebulosa",
+                "Carne di Drago",
+                "Pane degli Abissi",
+                "Pane di Luce",
+                "Spaghi del Sole",
+                "Plasma Vitale",
+                "Salsa Szechuan"
+            ],
+            "tecniche": [
+                "Impasto Gravitazionale Vorticoso",
+                "Cottura a Vapore Termocinetica Multipla",
+                "Saltare in Padella Classica"
+            ]
+        },
+        {
+            "nome_piatto": "Risotto Cosmico Multiversale",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Carne di Xenodonte",
+                "Carne di Mucca",
+                "Granuli di Nebbia Arcobaleno",
+                "Muffa Lunare"
+            ],
+            "tecniche": [
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Il Risveglio del Multiverso",
+            "ingredienti": [
+                "Radici di Singolarità",
+                "Alghe Bioluminescenti",
+                "Foglie di Mandragora",
+                "Granuli di Nebbia Arcobaleno",
+                "Plasma Vitale"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia del Cosmo e della Leggenda",
+            "ingredienti": [
+                "Carne di Xenodonte",
+                "Carne di Drago",
+                "Teste di Idra",
+                "Funghi Orbitali",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Decostruzione Interdimensionale Lovecraftiana",
+                "Affumicatura tramite Big Bang Microcosmico",
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Bollitura Infrasonica Armonizzata",
+                "Taglio a Risonanza Sonica Rigenerativa"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmos Quantum Fusion",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Carne di Kraken",
+                "Gnocchi del Crepuscolo",
+                "Funghi Orbitali",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Affumicatura a Stratificazione Quantica",
+                "Bollitura Infrasonica Armonizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Più-dimensionale Sinfonia di Sapori: La Carne del Cosmo",
+            "ingredienti": [
+                "Shard di Prisma Stellare",
+                "Carne di Balena spaziale",
+                "Carne di Xenodonte",
+                "Pane degli Abissi",
+                "Muffa Lunare",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Impasto Gravitazionale Vorticoso",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Plasma Celestiale al Risotto di Kraken nell'Aura del Sole",
+            "ingredienti": [
+                "Cristalli di Memoria",
+                "Fibra di Sintetex",
+                "Carne di Kraken",
+                "Spaghi del Sole",
+                "Granuli di Nebbia Arcobaleno",
+                "Biscotti della Galassia",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Cottura a Forno Dinamico Inversionale",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+                "Taglio a Risonanza Sonica Rigenerativa"
+            ]
+        },
+        {
+            "nome_piatto": "Risotto Interdimensionale alla Carne di Drago e Balena Spaziale con Biscotti della Galassia Croccanti",
+            "ingredienti": [
+                "Baccacedro",
+                "Liane di Plasmodio",
+                "Radici di Gravità",
+                "Carne di Drago",
+                "Carne di Balena spaziale",
+                "Biscotti della Galassia",
+                "Pane di Luce",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Saltare in Padella Classica",
+                "Affettamento a Pulsazioni Quantistiche"
+            ]
+        },
+        {
+            "nome_piatto": "Alternate Realities Risotto",
+            "ingredienti": [
+                "Polvere di Stelle",
+                "Radici di Singolarità",
+                "Carne di Balena spaziale",
+                "Carne di Drago",
+                "Riso di Cassandra",
+                "Nettare di Sirena",
+                "Sale Temporale"
+            ],
+            "tecniche": [
+                "Sinergia Elettro-Osmotica Programmabile",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        }
+    ]
+}

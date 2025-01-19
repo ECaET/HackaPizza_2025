@@ -1,0 +1,166 @@
+{
+    "nome_ristorante": "Stelle dell'Infinito Celestiale",
+    "nome_chef": "Jessica Cosmica",
+    "menu": [
+        {
+            "nome_piatto": "La Mucca Che Stordisce l'Universo",
+            "ingredienti": [
+                "Polvere di Stelle",
+                "Lattuga Namecciana",
+                "Colonia di Mycoflora",
+                "Carne di Mucca",
+                "Gnocchi del Crepuscolo",
+                "Lacrime di Andromeda",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Cottura Olografica Quantum Fluttuante",
+                "Decostruzione Interdimensionale Lovecraftiana"
+            ]
+        },
+        {
+            "nome_piatto": "Piccola Odissea Cosmica",
+            "ingredienti": [
+                "Polvere di Pulsar",
+                "Carne di Balena spaziale",
+                "Uova di Fenice",
+                "Teste di Idra",
+                "Spaghi del Sole",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Affettamento a Pulsazioni Quantistiche",
+                "Bollitura Entropica Sincronizzata"
+            ]
+        },
+        {
+            "nome_piatto": "L'Unicorno piange il Kraken",
+            "ingredienti": [
+                "Foglie di Nebulosa",
+                "Lattuga Namecciana",
+                "Carne di Xenodonte",
+                "Fibra di Sintetex",
+                "Carne di Kraken",
+                "Granuli di Nebbia Arcobaleno",
+                "Lacrime di Unicorno",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Cottura Olografica Quantum Fluttuante",
+                "Saltare in Padella Singolarità Inversa",
+                "Cottura con Microonde Entropiche Sincronizzate",
+                "Affettamento a Pulsazioni Quantistiche"
+            ]
+        },
+        {
+            "nome_piatto": "L'Eternità al Crepuscolo",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Foglie di Nebulosa",
+                "Carne di Kraken",
+                "Fibra di Sintetex",
+                "Gnocchi del Crepuscolo",
+                "Biscotti della Galassia",
+                "Funghi dell’Etere"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Pulsar Magnetica",
+                "Affumicatura a Stratificazione Quantica",
+                "Marinatura tramite Reazioni d'Antimateria Diluite",
+                "Impasto Gravitazionale Vorticoso",
+                "Ebollizione Magneto-Cinetica Pulsante"
+            ]
+        },
+        {
+            "nome_piatto": "La Balena Sputafuoco",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Carne di Balena spaziale",
+                "Pane degli Abissi",
+                "Funghi dell’Etere",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Cottura Sottovuoto Antimateria",
+                "Impasto Gravitazionale Vorticoso",
+                "Decostruzione Interdimensionale Lovecraftiana",
+                "Cottura Sottovuoto Multirealità Collassante",
+                "Sferificazione con Campi Magnetici Entropici"
+            ]
+        },
+        {
+            "nome_piatto": "Sassi e Sassolini",
+            "ingredienti": [
+                "Foglie di Mandragora",
+                "Radici di Singolarità",
+                "Biscotti della Galassia",
+                "Farina di Nettuno",
+                "Funghi dell’Etere",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Cottura Idrodinamica Autoregolante",
+                "Sferificazione con Campi Magnetici Entropici",
+                "Impasto Gravitazionale Vorticoso",
+                "Affumicatura a Stratificazione Quantica",
+                "Grigliatura Plasma Sintetico Risonante"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia Ardente",
+            "ingredienti": [
+                "Frammenti di Supernova",
+                "Radici di Singolarità",
+                "Foglie di Mandragora",
+                "Carne di Kraken",
+                "Spaghi del Sole",
+                "Amido di Stellarion",
+                "Pane di Luce",
+                "Muffa Lunare",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Decostruzione Magnetica Risonante",
+                "Affettamento a Pulsazioni Quantistiche",
+                "Grigliatura Plasma Sintetico Risonante",
+                "Decostruzione Interdimensionale Lovecraftiana"
+            ]
+        },
+        {
+            "nome_piatto": "Galassia di Cosmo-Delizie",
+            "ingredienti": [
+                "Vero Ghiaccio",
+                "Lattuga Namecciana",
+                "Carne di Drago",
+                "Amido di Stellarion",
+                "Lacrime di Unicorno",
+                "Essenza di Speziaria"
+            ],
+            "tecniche": [
+                "Decostruzione Magnetica Risonante",
+                "Cottura Sottovuoto Pulsar Magnetica"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulosa di Confini Sfondati",
+            "ingredienti": [
+                "Shard di Materia Oscura",
+                "Radici di Singolarità",
+                "Alghe Bioluminescenti",
+                "Foglie di Mandragora",
+                "Amido di Stellarion",
+                "Farina di Nettuno",
+                "Plasma Vitale",
+                "Petali di Eco"
+            ],
+            "tecniche": [
+                "Cottura Olografica Quantum Fluttuante",
+                "Congelamento Bio-Luminiscente Sincronico",
+                "Saltare in Padella Singolarità Inversa",
+                "Affumicatura a Stratificazione Quantica",
+                "Surgelamento Antimaterico a Risonanza Inversa"
+            ]
+        }
+    ]
+}

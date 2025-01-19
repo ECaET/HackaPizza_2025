@@ -1,0 +1,170 @@
+{
+    "nome_ristorante": "L'Eco dei Sapori",
+    "nome_chef": "Aurora Vessanti",
+    "menu": [
+        {
+            "nome_piatto": "Galassia Infinita: Viaggio tra Memorie e Stelle",
+            "ingredienti": [
+                "Pane di Luce",
+                "Spore Quantiche",
+                "Proteine di mare e terra",
+                "Essenza di Tachioni",
+                "Farina di Nettuno",
+                "Sferificazione tramite Matrici Biofotiche",
+                "Cristalli di Memoria",
+                "Biscotti della Galassia",
+                "Zucchero cosmico",
+                "Scaglie di stelle"
+            ],
+            "tecniche": [
+                "Marinatura Temporale Sincronizzata",
+                "Bollitura Infrasonica Armonizzata",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Cottura Idrodinamica Autoregolante",
+                "Decostruzione Magnetica Risonante"
+            ]
+        },
+        {
+            "nome_piatto": "Eterna Sinfonia del Cosmo",
+            "ingredienti": [
+                "Carne di mucca",
+                "Nettare di Sirena",
+                "Proteine rigenerative delle teste di idra",
+                "Alghe Bioluminescenti",
+                "Biscotti della Galassia",
+                "Shard di Materia Oscura"
+            ],
+            "tecniche": [
+                "Marinatura Sotto Zero a Polarità Inversa",
+                "Cottura Idrodinamica Autoregolante",
+                "Decostruzione Magnetica Risonante",
+                "Bollitura Infrasonica Armonizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Cosmica di Aurora",
+            "ingredienti": [
+                "Riso di Cassandra",
+                "Pane di Luce",
+                "Granuli di Nebbia Arcobaleno",
+                "Erba Pipa",
+                "Polvere di Pulsar"
+            ],
+            "tecniche": [
+                "Ebollizione Magneto-Cinetica Pulsante",
+                "Incisione Elettromagnetica Plasmica"
+            ]
+        },
+        {
+            "nome_piatto": "Galaxia Gustativa",
+            "ingredienti": [
+                "Amido di Stellarion",
+                "Shard di Materia Oscura",
+                "Funghi Orbitali",
+                "Granuli di Nebbia Arcobaleno",
+                "Baccacedro"
+            ],
+            "tecniche": [
+                "Bollitura Infrasonica Armonizzata",
+                "Fermentazione Quantico Biometrica",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Crescendo Cosmico",
+            "ingredienti": [
+                "Spaghi del Sole",
+                "Gnocchi del Crepuscolo",
+                "Carni succulente di Xenodonte",
+                "Radici di Singolarità",
+                "Colonia di Mycoflora",
+                "Spore Quantiche"
+            ],
+            "tecniche": [
+                "Amalgamazione Sintetica Molecolare",
+                "Polvere di Pulsar",
+                "Congelamento Bio-Luminiscente Sincronico"
+            ]
+        },
+        {
+            "nome_piatto": "Simfonia Celeste di Aurora",
+            "ingredienti": [
+                "Fusilli del Vento",
+                "Carne di Xenodonte",
+                "Amido di Stellarion",
+                "Colonia di Mycoflora",
+                "Alghe Bioluminescenti",
+                "Polvere di Pulsar",
+                "Muffa Lunare"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Decostruzione Magnetica Risonante",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Portale del Cosmo: Sinfonia di Sapori e Tempi",
+            "ingredienti": [
+                "Pane degli Abissi",
+                "Muffa Lunare",
+                "Fibra di Sintetex",
+                "Radici di Gravità",
+                "Colonia di Mycoflora",
+                "Shard di Prisma Stellare",
+                "Baccacedro",
+                "Nduja Fritta Tanto"
+            ],
+            "tecniche": [
+                "Marinatura Psionica",
+                "Affumicatura Temporal Risonante"
+            ]
+        },
+        {
+            "nome_piatto": "Verso l'Inedito Oltre",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Carne di Drago",
+                "Carne di Mucca",
+                "Teste di Idra"
+            ],
+            "tecniche": [
+                "Incisioni elettromagnetiche plasmatiche",
+                "Marinatura nel Nettare di Sirena"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia di Galassie Perdute",
+            "ingredienti": [
+                "Radici di Singolarità",
+                "Lattuga Namecciana",
+                "Muffa Lunare",
+                "Cristalli di Memoria",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Incisione Elettromagnetica Plasmica",
+                "Sferificazione tramite Matrici Biofotiche",
+                "Stratificazione Quantica"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia degli Elementi Eterni",
+            "ingredienti": [
+                "Liane di Plasmodio",
+                "Radici di Singolarità",
+                "Foglie di Mandragora",
+                "Uova di Fenice",
+                "Carne di Kraken",
+                "Farina di Nettuno",
+                "Lacrime di Andromeda"
+            ],
+            "tecniche": [
+                "Marinatura Psionica",
+                "Bollitura termografica a rotazione veloce",
+                "Fermentazione quantico biometrica",
+                "Sferificazione filamentare a molecole vibrazionali"
+            ]
+        }
+    ]
+}

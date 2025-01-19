@@ -1,0 +1,139 @@
+{
+    "nome_ristorante": "Stelle Astrofisiche",
+    "nome_chef": "Alessandro Zod-Marinetti",
+    "menu": [
+        {
+            "nome_piatto": "Viaggio Cosmico tra Mare e Stelle",
+            "ingredienti": [
+                "Carne di Balena Spaziale",
+                "Carne di Kraken",
+                "Teste di Idra",
+                "Lacrime di Andromeda",
+                "Riso di Cassandra",
+                "Pane degli Abissi",
+                "Spezie Melange"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Cottura con Microonde Entropiche Sincronizzate"
+            ]
+        },
+        {
+            "nome_piatto": "Nebulosa di Dragone all'Essenza di Vuoto",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Polvere di Stelle",
+                "Carne di Drago",
+                "Spore Quantiche",
+                "Essenza di Vuoto"
+            ],
+            "tecniche": [
+                "Bollitura Termografica a Rotazione Veloce",
+                "Sinergia elettro-osmotica programmabile"
+            ]
+        },
+        {
+            "nome_piatto": "Il Viaggio Cosmico di Marinetti",
+            "ingredienti": [
+                "Pane degli Abissi",
+                "Polvere di Crononite",
+                "Teste di Idra",
+                "Granuli di Nebbia Arcobaleno",
+                "Alghe Bioluminescenti",
+                "Colonia di Mycoflora"
+            ],
+            "tecniche": [
+                "Amalgamazione Sintetica Molecolare",
+                "Cryo-Tessitura Energetica Polarizzata"
+            ]
+        },
+        {
+            "nome_piatto": "Piastrella Celestiale di Gnocchi del Crepuscolo con Nebulosa di Riso di Cassandra, Lacrime di Unicorno e Velo di Materia Oscura",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Nebulosa di Riso di Cassandra",
+                "Lacrime di Unicorno",
+                "Materia Oscura"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Amalgamazione Sintetica Molecolare",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Celeste di Granuli Arcobaleno e Riso di Cassandra",
+            "ingredienti": [
+                "Granuli di Nebbia Arcobaleno",
+                "Riso di Cassandra",
+                "Fusilli del Vento",
+                "Essenza di Speziaria",
+                "Nettare di Sirena"
+            ],
+            "tecniche": [
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Bollitura Termografica a Rotazione Veloce",
+                "Amalgamazione Sintetica Molecolare"
+            ]
+        },
+        {
+            "nome_piatto": "Cosmos in Tavola",
+            "ingredienti": [
+                "Gnocchi del Crepuscolo",
+                "Carne di Drago",
+                "Cristalli di Nebulite",
+                "Amido di Stellarion",
+                "Nettare di Sirena",
+                "Biscotti della Galassia"
+            ],
+            "tecniche": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Saltare in Padella Classica"
+            ]
+        },
+        {
+            "nome_piatto": "Eclissi del Drago nell'Abbraccio del Kraken",
+            "ingredienti": [
+                "Carne di Drago",
+                "Carne di Kraken",
+                "Riso di Cassandra",
+                "Colonia di Mycoflora",
+                "Plasma Vitale",
+                "Shard di Materia Oscura"
+            ],
+            "tecniche": [
+                "Grigliatura Elettro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Quantica Galattica",
+            "ingredienti": [
+                "Lattuga Namecciana",
+                "Carne di Drago",
+                "Riso di Cassandra",
+                "Salsa Szechuan",
+                "Biscotti della Galassia"
+            ],
+            "tecniche": [
+                "Taglio a Risonanza Sonica Rigenerativa",
+                "Cottura a Vapore Termocinetica Multipla"
+            ]
+        },
+        {
+            "nome_piatto": "Sinfonia Galattica Agentica",
+            "ingredienti": [
+                "Pane di Luce",
+                "Carne di Drago",
+                "Carne di Balena Spaziale",
+                "Carne di Kraken",
+                "Plasma Vitale"
+            ],
+            "tecniche": [
+                "Sinergia elettro-osmotica programmabile",
+                "Cryo-Tessitura Energetica Polarizzata",
+                "Cottura con Microonde Entropiche Sincronizzate"
+            ]
+        }
+    ]
+}
