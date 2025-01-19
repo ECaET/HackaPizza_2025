@@ -1,10 +1,14 @@
 from dotenv import load_dotenv
 
+import json
 from langchain_neo4j import Neo4jGraph
 from langchain_openai import ChatOpenAI
 
 import os
-from utils import answer_questions
+from utils import (
+    answer_questions,
+    json_txt_to_submission,
+)
 
 
 load_dotenv()
@@ -112,4 +116,9 @@ The question is:
 {question}"""
 
 
-answer_questions(llm=llm, graph=graph, standard_template=CYPHER_GENERATION_TEMPLATE_STANDARD, fuzzy_template=CYPHER_GENERATION_TEMPLATE_FUZZY, questions_file_path=questions_file_path, answers_txt_path=answers_txt_path)
+lista_risposte = answer_questions(llm=llm, graph=graph, standard_template=CYPHER_GENERATION_TEMPLATE_STANDARD, fuzzy_template=CYPHER_GENERATION_TEMPLATE_FUZZY, questions_file_path=questions_file_path, answers_txt_path=answers_txt_path)
+
+with open('submission.txt', 'w') as convert_file: 
+     convert_file.write(json.dumps(lista_risposte))
+
+json_txt_to_submission("dish_mapping.json", "submission.txt", "output.csv")
