@@ -1,4 +1,4 @@
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'your-api-key'
 
 from neo4j import GraphDatabase
 import json
