@@ -1,5 +1,13 @@
 # HackaPizza_2025
 
+## Project Description
+La soluzione si basa sull'utilizzo di un Knowledge Graph per salvare le principali entità presenti all'interno della Galassia (Pianeti, Ristoranti, Piatti, Ingredienti, ...) e le loro rispettive relazioni (es. un Ristorante --OFRRE_IL_PIATTO--> Piatto).
+
+Per costruire il grafo, vengono prima processati i documenti tramite un LLM (gpt-4o-mini) per estrarre in modo strutturato entità e relazioni. L'output di questo step sono una serie di file JSON.
+I file JSON vengono poi letti e utilizzati per scrivere delle query Cypher al fine di popolare il grafo.
+
+In fase di retrieval, le domande in linguaggio naturale vengono convertite in query Cypher al fine di ottenere tutte le entità che soddisfano una specifica domanda.
+
 ## Files
 ### Misc/distanze.csv
 Un csv che contiene la matrice delle distanze in anni luce tra i pianeti su cui si trovano i diversi ristoranti.
