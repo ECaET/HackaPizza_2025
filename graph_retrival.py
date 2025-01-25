@@ -51,6 +51,7 @@ The distance between planets is specified as a property of the 'HA_DISTANZA_ANNI
 Each Chef can have one or more licenses with a specific grade/score. The score is specified as an attribute in the relationship POSSIEDE_LICENZA that connects the nodes Chef and Licenza.
 When you need to find a node Licenza, you must use his attributes 'nome' and 'sigla' in OR condition to find the match.
 When you need to find a node Tecnica, you must use his attributes 'nome' and 'description' in OR condition to find the match.
+Sirius Cosmo is mainly known as the boss of the galaxy, not as a chef, and he defines all the main rules.
 
 
 Instructions:
@@ -89,6 +90,7 @@ The distance between planets is specified as a property of the 'HA_DISTANZA_ANNI
 Each Chef can have one or more licenses with a specific grade/score. The score is specified as an attribute in the relationship POSSIEDE_LICENZA that connects the nodes Chef and Licenza.
 When you need to find a node Licenza, you must use his attributes 'nome' and 'sigla' in OR condition to find the match.
 When you need to find a node Tecnica, you must use his attributes 'nome' and 'description' in OR condition to find the match.
+Sirius Cosmo is mainly known as the boss of the galaxy, not as a chef, and he defines all the main rules.
 
 
 Instructions:
